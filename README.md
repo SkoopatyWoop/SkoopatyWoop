@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkoopatyWoop
-- 👀 I’m interested in SWE, AI, and Cyber Security
-- 🌱 I’m currently learning SWE, AI, Cyber Security
+- 👀 I’m interested in SWE, AI, and Security
+- 🌱 I’m currently learning SWE, AI, Security
 - 💞️ I’m looking to collaborate on Open Source, games, websites
 
 <!---
